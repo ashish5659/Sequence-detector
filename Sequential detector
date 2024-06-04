@@ -66,6 +66,6 @@ module seq_det(in, clk,rst, out);
     endcase
   end
 endmodule
-
+ 
 
         
